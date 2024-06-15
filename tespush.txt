@@ -1,2 +1,2 @@
 tespush.txt
-ini adalah tespush.txtcls
+ini adalah tespush.txt
