@@ -1,0 +1,2 @@
+tespush.txt
+ini adalah tespush.txt
